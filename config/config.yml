@@ -1,0 +1,12 @@
+facadeServer:
+  port: 8080
+  DEBUG_ON: true
+
+loggingService:
+  port: 8081
+  DEBUG_ON: true
+
+messageService:
+  port: 8082
+  DEBUG_ON: true
+  
